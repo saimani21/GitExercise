@@ -1,2 +1,1 @@
-# GitExercise
-awd1
+Hello, Git!
